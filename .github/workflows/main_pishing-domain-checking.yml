@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pishing-domain-checking'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C4E489D83DC74B19BE082921DC78AF2C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4AD08A017964A0DA2B5185574286095 }}
