@@ -18,7 +18,7 @@ python main.py
 To download your dataset
 
 ```
-wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
+https://data.mendeley.com/datasets/72ptz43s9v/1
 ```
 
 This is changes made in neuro lab
