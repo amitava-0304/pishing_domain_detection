@@ -60,7 +60,7 @@ Total number of features: 111
 
 ## 📺 Demo Video
 
-Demo Video Link: https://youtu.be/qn8MmiEdNao
+Demo Video Link: https://www.youtube.com/watch?v=Z-ir-Ay82GU
 
 
 ### ⚙️ SetUp
